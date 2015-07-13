@@ -1,3 +1,5 @@
 this is new file
 
 Added new details on 07/13/2015
+
+--fixed issue-2
